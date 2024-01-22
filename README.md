@@ -1,1 +1,1 @@
-[Homework 1](https://github.com/TopolAV/Genius_Homework/genius-homework-1/)<br>
+[Homework 1](https://topolav.github.io/Genius_Homework/genius-homework-1/)<br>
